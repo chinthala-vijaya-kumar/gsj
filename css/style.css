@@ -1198,6 +1198,13 @@ keyframes animation
 	background-repeat: no-repeat;
 	background-size: contain;
 }
+#contact1{
+
+	background-image: url(../img/hammed-down-bg.png);
+	padding: 0px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
 
 #contact .transp-back{
 	padding: 145px 0;
